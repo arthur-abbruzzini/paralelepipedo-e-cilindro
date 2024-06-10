@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to top left, rgb(173, 49, 45), rgb(192, 153, 46), rgb(146, 214, 82));
+    color: rgb(42, 42, 58);
+    height: 100vh;
+    margin: 32px;
+    font-size: large;
+    font-family: Verdana;
+    text-align: center;
+}
+
+.config2{
+    font-size: larger;
+    color: rgb(77, 126, 110);
+}
+
+.config{
+    background-color: rgb(158, 226, 203);
+    color: rgb(55, 55, 121);
+    border-radius: 12px;
+    height: 48px;
+}
+
+button{
+    background-color: rgb(28, 28, 68) ; 
+    color: whitesmoke;
+    height: 36px;
+    border-radius: 12px;}
